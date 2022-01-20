@@ -50,9 +50,9 @@ public class StaticRecapOne {
 		
 		
 		//TODO call [temperature] variable and assign value = 55.55;
-		StaticRecapOne.temperature = 55.55;
+		temperature = 55.55;
 		//TODO  print the value of variable [temperature]
-		System.out.println(StaticRecapOne.temperature);
+		System.out.println(temperature);
 		
 		
 		 
@@ -62,7 +62,7 @@ public class StaticRecapOne {
 
 
 		//TODO  call method[addNum()]
-		divNum (10, 2);
+		addNum (10, 2);
 		System.out.println(a / b);
 		
 

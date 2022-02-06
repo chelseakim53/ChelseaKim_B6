@@ -15,6 +15,10 @@ public class ArrayExerciseSeven {
 		int n3[] = { 88, 22, 6, 1, 8, 0 };
 		int resultThree = getIndexNumber(n3, 22);
 		System.out.println(resultThree);
+		
+		int n4[] = {2,3,88,22,44 };
+		int resultFour = getIndexNumber(n4, 44);
+		System.out.println(resultFour);
 	}
 
 	public static int getIndexNumber(int[] number, int elementValue) {
